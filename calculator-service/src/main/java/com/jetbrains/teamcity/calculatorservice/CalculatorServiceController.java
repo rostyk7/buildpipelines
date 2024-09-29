@@ -8,6 +8,6 @@ public class CalculatorServiceController {
 
     @GetMapping("/")
     public String hello() {
-        return "Welcome To Calculation Server";
+        return "Welcome To Calculation Server made by Rostyk";
     }
 }
